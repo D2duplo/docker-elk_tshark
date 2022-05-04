@@ -27,6 +27,7 @@ Other available stack variants:
 * [`tls`](https://github.com/deviantony/docker-elk/tree/tls): TLS encryption enabled in Elasticsearch
 * [`searchguard`](https://github.com/deviantony/docker-elk/tree/searchguard): Search Guard support
 
+Also based on configurations from https://github.com/H21lab/tsharkVM
 ---
 
 ## Philosophy
